@@ -60,9 +60,9 @@ function Experience() {
             />
             <div className="text-white text-left space-y-2">
               <p><span className="font-semibold"><a href="https://acemaingenieria.com/">Acema Ingenieria</a></span> </p>
-              <p><span className="font-semibold">Duracioin: </span> 6 meses</p>
-              <p><span className="font-semibold">Rol: </span> Desarrollador de Software</p>
-              <p><span className="font-semibold">Ubicación: </span> Calle 48A #81 A 30  Calasanz – Medellin, Antioquia</p>
+              <p><span className="font-semibold">Duración: </span> 5 meses (actual)</p>
+              <p><span className="font-semibold">Rol: </span> Agente de Servicio al Cliente</p>
+              <p><span className="font-semibold">Ubicación: </span> Medellín, Colombia (Presencial)</p>
             </div>
 
 
