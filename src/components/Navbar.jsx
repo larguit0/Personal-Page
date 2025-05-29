@@ -8,8 +8,7 @@ export default function Navbar() {
           <li><Link to="/" className="hover:text-cyan-400">Inicio</Link></li>
           <li><Link to="/about" className="hover:text-cyan-400">Sobre mí</Link></li>
           <li><Link to="/experience" className="hover:text-cyan-400">Experiencia</Link></li>
-          <li><Link to="/projects" className="hover:text-cyan-400">Proyectos</Link></li>
-          <li><Link to="/contact" className="hover:text-cyan-400">Contacto</Link></li>
+    
         </ul>
         <h1 className="text-xl  font-bold">Miguel Largo</h1>
 
