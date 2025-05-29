@@ -1,14 +1,14 @@
 function About() {
     return (
       <section className="min-h-screen px-6 py-10 bg-[#121212] text-white  ">
-        <div className="flex flex-col md:flex-row gap-10">
-        <div className="w-full md:w-1/3 flex flex-col items-center md:items-start">
+        <div data-aos="fade-up" className="flex flex-col md:flex-row gap-10">
+        <div data-aos="fade-down"className="w-full md:w-1/3 flex flex-col items-center md:items-start">
           <img
             src="/myAbout.jpeg"
             alt="foto Miguel"
             className="w-48 h-48 rounded-lg object-cover shadow-lg"
           />
-          <div className="text-white text-left space-y-2">
+          <div data-aos="fade-down" className="text-white text-left space-y-2">
             <p><span className="font-semibold">Miguel Angel Largo</span> </p>
             <p><span className="font-semibold">Edad: </span> 22 años</p>
             <p><span className="font-semibold">Trabajo Actual: </span> Agente AT&T(Bilingue)</p>

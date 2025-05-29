@@ -5,7 +5,7 @@ function Home() {
         backgroundImage: `url('/fondoo.jpeg')`, //  imagen en la carpeta public/
       }}
       >
-        <div className="bg-black/60 w-full h-full flex flex-col justify-center px-10 md:px-20">
+        <div data-aos="fade-up" className="bg-black/60 w-full h-full flex flex-col justify-center px-10 md:px-20">
         <   h1 className="text-4xl md:text-5xl font-mb-2">MIGUEL</h1>
             <h1 className="text-5xl md:text-6xl font-extrabold mb-2">LARGO</h1>
             <h2 className="text-2xl md:text-3xl font-light mb-8">Desarrollador de Software</h2>

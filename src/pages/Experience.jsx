@@ -1,7 +1,7 @@
 function Experience() {
     return (
       <section className="min-h-screen px-6 py-10 bg-[#121212] text-white  ">
-        <div className="flex flex-col md:flex-row gap-10">
+        <div data-aos="fade-up" className="flex flex-col md:flex-row gap-10">
           <div className="w-full md:w-1/3 flex flex-col items-center md:items-start">
             <img
               src="/Acema.jpg"

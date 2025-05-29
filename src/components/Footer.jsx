@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
       <footer className="bg-gray-900 text-white py-8 mt-20">
-        <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
+        <div data-aos="fade-up" className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
           
           <p className="text-center md:text-left mb-4 md:mb-0 text-sm">
             © {new Date().getFullYear()} Miguel Ángel Largo. Todos los derechos reservados.
