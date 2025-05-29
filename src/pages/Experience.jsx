@@ -59,10 +59,10 @@ function Experience() {
               className="w-25 h-25 rounded-lg object-cover shadow-lg"
             />
             <div className="text-white text-left space-y-2">
-              <p><span className="font-semibold"><a href="https://acemaingenieria.com/">Acema Ingenieria</a></span> </p>
+              <p><span className="font-semibold"><a href="https://talentoteleperformance.com/s/m">Teleperformance</a></span> </p>
               <p><span className="font-semibold">Duración: </span> 5 meses (actual)</p>
-              <p><span className="font-semibold">Rol: </span> Agente de Servicio al Cliente</p>
-              <p><span className="font-semibold">Ubicación: </span> Medellín, Colombia (Presencial)</p>
+            <p><span className="font-semibold">Rol: </span> Agente de Servicio al Cliente</p>
+            <p><span className="font-semibold">Ubicación: </span> Medellín, Colombia (Presencial)</p>
             </div>
 
 
