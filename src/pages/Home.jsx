@@ -19,7 +19,7 @@ function Home() {
                     Portafolio
                 </a>
                 <a 
-                    href="/cvi.pdf"
+                    href="/MiguelAngelLargoHv.pdf"
                     download
                     className="border-2 border-white px-6 py-2 rounded hover:bg-white hover:text-black transition"
                 >
